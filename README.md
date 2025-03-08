@@ -3,7 +3,7 @@
 </a></p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=99 src="https://count.getloli.com/@u0w0n?name=u0w0n&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto"  alt=""/>
+    <img height=160 src="https://count.getloli.com/@u0w0n?name=u0w0n&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto"  alt=""/>
 </a></p>
 <!-- auto generated at Fri Jul 22 2022 02:24:08 GMT+0000 (Coordinated Universal Time) -->
 
