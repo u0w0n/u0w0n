@@ -12,11 +12,8 @@
 </a></p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=moeshin&show_icons=true&count_private=true&theme=dracula"/></a>
+<a href=""><img align="right" alt="Github stats" src="https://camo.githubusercontent.com/0247707c1db43f0257127fd2b125ae627f4557bc6f1a046f5aa477732dbfdacd/68747470733a2f2f706963322e7a697975616e2e77616e672f757365722f3077302f323032342f30372f7265696d755f656132636135663663646432642e706e673f7261773d74727565"/></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeshin&layout=compact&langs_count=10&theme=dracula&card_width=445"/></a><br/>
-
-<a href="https://wakatime.com/@moeshin"><img align="right" alt="MoeShin's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=moeshin&layout=compact&theme=dracula"/></a>
 
 
 
