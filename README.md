@@ -11,5 +11,3 @@
 <p align="center">
 我们所度过的每个平凡的日常，也许就是连续发生的奇迹~
 </a></p>
-### Visit Friends (since 28 April 2023):
-<!-- auto generated at Fri Jul 22 2022 02:24:08 GMT+0000 (Coordinated Universal Time) -->
